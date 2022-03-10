@@ -1,6 +1,8 @@
 # bootstrap-5-portfolio
 Make a portfolio with bootstrap 5 (Front-end)
 
+Download the full PDF of head to toe screenshot of my web page from here :
+
 [screencapture-127-0-0-1-5500-MidTerm-roar-bootstrap-5-portfolio-main-Portfolio-Bootstrap-5-index-html-2022-03-11-00_46_04.pdf](https://github.com/thinkGrow/bootstrap-5-portfolio/files/8226172/screencapture-127-0-0-1-5500-MidTerm-roar-bootstrap-5-portfolio-main-Portfolio-Bootstrap-5-index-html-2022-03-11-00_46_04.pdf)
 
 Check the screenshot folder for some useful screenshots of the project.
